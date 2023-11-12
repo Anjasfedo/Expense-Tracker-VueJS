@@ -48,7 +48,6 @@ const totalIncome = computed(() => {
 </script>
 
 <template>
-  {{ expense }}
   <div class="flex justify-center items-center h-fit py-10">
     <div class="bg-blue-100 h-5/6 w-2/6 flex flex-col items-center p-4 rounded-2xl ring-gray-600 ring-2">
       <Header />
